@@ -62,3 +62,5 @@ summary(model3) $coef %>%
 ```{r}
 summary(model3)
 ```
+
+
